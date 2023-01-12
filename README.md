@@ -29,7 +29,7 @@ The below screenshot shows the user winning the game with a total score of 10. T
 
 ## THE SECOND PHASE OF THE SNOWPERSON GAME 
 
-The second phase of the SNOWPERSON GAME lets the to play the game with hints using asterisk (*). The following is how the user plays the snowperson game with hints, it similar to the snowperson with guesses except the second phase of it uses the asterisk for hint. This makes it much easier for the user to win the game or get a better score. For the second phase to work, the below code has a be uncommmented out first as shown in the screenshot.
+The second phase of the SNOWPERSON GAME lets the the user play the game with hints using asterisk (*). The following is how the user plays the snowperson game with hints, it similar to the snowperson with guesses except the second phase of it uses the asterisk for hint. This makes it much easier for the user to win the game or get a better score. For the second phase to work, the below code has a be uncommmented out first as shown in the screenshot.
 
 ![image](https://user-images.githubusercontent.com/121839880/212197089-c9c862a0-a5ec-4586-b9fb-bf82bc80f573.png)
 
