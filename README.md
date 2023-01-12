@@ -1,11 +1,12 @@
-# KOTLIN-COMPETITION 2023
+  # KOTLIN-COMPETITION 2023
 
 The SNOWPERSON GAME is in two phases:
 First the user plays the snowperson game with the secret word by guessing the words. The following screenshot will show an example of the first phase of the snowperson game:
 
 ![image](https://user-images.githubusercontent.com/121839880/212193596-38626503-d798-4106-a538-6355b5e3c026.png)
 
-THE FIRST PHASE OF THE SNOWPERSON GAME:
+
+  ## THE FIRST PHASE OF THE SNOWPERSON GAME:
 
 
 ![image](https://user-images.githubusercontent.com/121839880/212193917-021d2457-a31f-4e30-a229-63606c305424.png)
@@ -27,5 +28,10 @@ The below screenshot shows the user winning the game with a total score of 10. T
 
 
 ## THE SECOND PHASE OF THE SNOWPERSON GAME 
+
+The second phase of the SNOWPERSON GAME lets the to play the game with hints using asterisk (*). The following is how the user plays the snowperson game with hints, it similar to the snowperson with guesses except the second phase of it uses the asterisk for hint. This makes it much easier for the user to win the game or get a better score.
+
+
+
 
 
