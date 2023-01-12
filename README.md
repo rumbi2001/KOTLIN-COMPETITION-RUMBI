@@ -29,8 +29,28 @@ The below screenshot shows the user winning the game with a total score of 10. T
 
 ## THE SECOND PHASE OF THE SNOWPERSON GAME 
 
-The second phase of the SNOWPERSON GAME lets the to play the game with hints using asterisk (*). The following is how the user plays the snowperson game with hints, it similar to the snowperson with guesses except the second phase of it uses the asterisk for hint. This makes it much easier for the user to win the game or get a better score.
+The second phase of the SNOWPERSON GAME lets the to play the game with hints using asterisk (*). The following is how the user plays the snowperson game with hints, it similar to the snowperson with guesses except the second phase of it uses the asterisk for hint. This makes it much easier for the user to win the game or get a better score. For the second phase to work, the below code has a be uncommmented out first as shown in the screenshot.
 
+![image](https://user-images.githubusercontent.com/121839880/212197089-c9c862a0-a5ec-4586-b9fb-bf82bc80f573.png)
+
+Below shows a screenshot of how the second phase of snowperson is played with the help of asterisk(*):
+
+![image](https://user-images.githubusercontent.com/121839880/212197703-4245aac1-b757-4aaa-b7f4-f4657ba0f65b.png)
+
+
+This is easier to know which words to count out since some letters would have been inserted.
+
+![image](https://user-images.githubusercontent.com/121839880/212198041-700a4807-dede-49d6-8362-3e70adac9a9e.png)
+
+
+![image](https://user-images.githubusercontent.com/121839880/212198210-896b8505-2bf4-4fbd-80a1-65253ef7ab36.png)
+
+ In conclusion the second phase of snowperson with hints enables the user to get higher score compared to the first phase of the secret word guesses.
+ 
+ ![image](https://user-images.githubusercontent.com/121839880/212198515-e96a25e6-26a4-41d7-8d78-8a7822e72508.png)
+
+
+                 ################################ THE END #######################################
 
 
 
