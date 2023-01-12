@@ -26,6 +26,6 @@ The below screenshot shows the user winning the game with a total score of 10. T
 ![image](https://user-images.githubusercontent.com/121839880/212195808-2c0364ec-6b2e-4501-90ba-b951c2483197.png)
 
 
-##THE SECOND PHASE OF THE SNOWPERSON GAME 
+## THE SECOND PHASE OF THE SNOWPERSON GAME 
 
 
